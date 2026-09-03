@@ -1,20 +1,21 @@
 # 🎯 Vulnerable Machines & CTF Writeups
 
-Bu repozitoriyada **DockerLabs**, **VulnHub**, **PentesterLab** va boshqa platformalardagi zaif mashinalar (vulnerable machines) bo'yicha tayyorlangan shaxsiy penetratsion test va CTF writeup'lari (hisobotlari) jamlangan.
+A comprehensive collection of penetration testing writeups, walkthroughs, and security assessment reports for vulnerable machines from platforms such as **DockerLabs**, **VulnHub**, **PentesterLab**, and various CTF challenges.
 
 ---
 
-## 📊 Umumiy ma'lumot
-* **Jami mashinalar:** 39 ta
-* **Formatlar:** PDF, DOCX
-* **Fayllar tuzilishi:** `[Mashina_Nomi]_Writeup.[pdf/docx]`
-* **Yo'nalish:** Web Application Security, Network Penetration Testing, Privilege Escalation (Linux/Windows)
+## 📊 Overview
+
+* **Total Writeups:** 39
+* **Formats:** PDF, DOCX
+* **Naming Convention:** `[Machine_Name]_Writeup.[ext]`
+* **Focus Areas:** Web Application Security, Network Penetration Testing, Linux/Windows Privilege Escalation, Binary Exploitation
 
 ---
 
-## 📑 Mashinalar hisoboti ro'yxati (Writeups Index)
+## 📑 Machine Reports Index
 
-| # | Mashina / Lab Nomi | Format | Hisobot fayli |
+| # | Target / Machine Name | Format | Report Walkthrough |
 |:---:|:---|:---:|:---|
 | 1 | **Aidor** | `DOCX` | [Aidor_Writeup.docx](Aidor_Writeup.docx) |
 | 2 | **Allien** | `PDF` | [Allien_Writeup.pdf](Allien_Writeup.pdf) |
@@ -59,4 +60,4 @@ Bu repozitoriyada **DockerLabs**, **VulnHub**, **PentesterLab** va boshqa platfo
 ---
 
 > [!NOTE]
-> Ushbu hisobotlar ta'lim va axborot xavfsizligi tadqiqotlari maqsadida tayyorlangan.
+> **Disclaimer:** These reports and writeups are documented solely for educational purposes, ethical security research, and practical learning.
