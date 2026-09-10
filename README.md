@@ -9,6 +9,8 @@ A comprehensive collection of penetration testing writeups, walkthroughs, and se
 > 🌐 **Online Live Reader:** [greenfield71.github.io/machine-reports](https://greenfield71.github.io/machine-reports/)  
 > *(To'g'ridan-to'g'ri brauzerda qidirish va yuklab olmasdan o'qish uchun veb-interfeys)*
 
+| 42 | **Devoops** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/Devoops_Writeup.pdf) | [Devoops_Writeup.pdf](Devoops_Writeup.pdf) |
+
 ---
 
 ## 📊 Overview
@@ -18,11 +20,15 @@ A comprehensive collection of penetration testing writeups, walkthroughs, and se
 * **Naming Convention:** `[Machine_Name]_Writeup.pdf`
 * **Focus Areas:** Web Application Security, Network Penetration Testing, Linux/Windows Privilege Escalation, Binary Exploitation
 
+| 42 | **Devoops** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/Devoops_Writeup.pdf) | [Devoops_Writeup.pdf](Devoops_Writeup.pdf) |
+
 ---
 
 > [!TIP]
 > **Hisobotlarni to'g'ridan-to'g'ri brauzerda ochish:**  
 > GitHub o'zining ichki PDF ko'ruvchisi (`viewscreen`) orqali ko'pincha AdBlock yoki xavfsizlik cheklovlari tufayli xatolik berishi mumkin. Har bir hisobotni bir marta bosish bilan yuklab olmasdan o'qish uchun quyidagi jadvaldagi **"👁️ View Online"** havolasidan foydalaning!
+
+| 42 | **Devoops** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/Devoops_Writeup.pdf) | [Devoops_Writeup.pdf](Devoops_Writeup.pdf) |
 
 ---
 
@@ -71,6 +77,8 @@ A comprehensive collection of penetration testing writeups, walkthroughs, and se
 | 39 | **Winfake** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/Winfake_Writeup.pdf) | [Winfake_Writeup.pdf](Winfake_Writeup.pdf) |
 | 40 | **XSS** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/XSS_Writeup.pdf) | [XSS_Writeup.pdf](XSS_Writeup.pdf) |
 | 41 | **Zone** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/Zone_Writeup.pdf) | [Zone_Writeup.pdf](Zone_Writeup.pdf) |
+
+| 42 | **Devoops** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/Devoops_Writeup.pdf) | [Devoops_Writeup.pdf](Devoops_Writeup.pdf) |
 
 ---
 
