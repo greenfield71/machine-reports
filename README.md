@@ -2,12 +2,8 @@
 
 A comprehensive collection of penetration testing writeups, walkthroughs, and security assessment reports for vulnerable machines from platforms such as **DockerLabs**, **VulnHub**, **HackMyVM**, **Hack The Box**, **PentesterLab**, and various CTF challenges.
 
-[![GitHub Pages](https://img.shields.io/badge/Live_Web_Reader-GitHub_Pages-2ea043?style=for-the-badge&logo=github)](https://greenfield71.github.io/machine-reports/)
 [![Total Writeups](https://img.shields.io/badge/Total_Writeups-43-blue?style=for-the-badge)](https://github.com/greenfield71/machine-reports)
 [![Format](https://img.shields.io/badge/Format-100%25_PDF-red?style=for-the-badge)](https://github.com/greenfield71/machine-reports)
-
-> 🌐 **Online Live Reader:** [greenfield71.github.io/machine-reports](https://greenfield71.github.io/machine-reports/)  
-> *(To'g'ridan-to'g'ri brauzerda qidirish va yuklab olmasdan o'qish uchun veb-interfeys)*
 
 ---
 
