@@ -1,9 +1,9 @@
 # 🎯 Vulnerable Machines & CTF Writeups
 
-A comprehensive collection of penetration testing writeups, walkthroughs, and security assessment reports for vulnerable machines from platforms such as **DockerLabs**, **VulnHub**, **HackMyVM**, **PentesterLab**, and various CTF challenges.
+A comprehensive collection of penetration testing writeups, walkthroughs, and security assessment reports for vulnerable machines from platforms such as **DockerLabs**, **VulnHub**, **HackMyVM**, **Hack The Box**, **PentesterLab**, and various CTF challenges.
 
 [![GitHub Pages](https://img.shields.io/badge/Live_Web_Reader-GitHub_Pages-2ea043?style=for-the-badge&logo=github)](https://greenfield71.github.io/machine-reports/)
-[![Total Writeups](https://img.shields.io/badge/Total_Writeups-42-blue?style=for-the-badge)](https://github.com/greenfield71/machine-reports)
+[![Total Writeups](https://img.shields.io/badge/Total_Writeups-43-blue?style=for-the-badge)](https://github.com/greenfield71/machine-reports)
 [![Format](https://img.shields.io/badge/Format-100%25_PDF-red?style=for-the-badge)](https://github.com/greenfield71/machine-reports)
 
 > 🌐 **Online Live Reader:** [greenfield71.github.io/machine-reports](https://greenfield71.github.io/machine-reports/)  
@@ -13,8 +13,8 @@ A comprehensive collection of penetration testing writeups, walkthroughs, and se
 
 ## 📊 Overview
 
-* **Total Writeups:** 42
-* **Formats:** 100% PDF (barcha 42 ta mashina PDF formatida mavjud, 4 tasi DOCX manbasi bilan)
+* **Total Writeups:** 43
+* **Formats:** 100% PDF (barcha 43 ta mashina PDF formatida mavjud, 4 tasi DOCX manbasi bilan)
 * **Naming Convention:** `[Machine_Name]_Writeup.pdf`
 * **Focus Areas:** Web Application Security, Network Penetration Testing, Linux/Windows Privilege Escalation, Binary Exploitation
 
@@ -64,14 +64,15 @@ A comprehensive collection of penetration testing writeups, walkthroughs, and se
 | 32 | **Rickdiculously Easy** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/Rickdiculously_Easy_Writeup.pdf) | [Rickdiculously_Easy_Writeup.pdf](Rickdiculously_Easy_Writeup.pdf) |
 | 33 | **Showtime** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/Showtime_Writeup.pdf) | [Showtime_Writeup.pdf](Showtime_Writeup.pdf) ([DOCX](Showtime_Writeup.docx)) |
 | 34 | **SRV** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/SRV_Writeup.pdf) | [SRV_Writeup.pdf](SRV_Writeup.pdf) |
-| 35 | **Sunset: Midnight** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/Sunset_Midnight_Writeup.pdf) | [Sunset_Midnight_Writeup.pdf](Sunset_Midnight_Writeup.pdf) |
-| 36 | **UserSearch** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/UserSearch_Writeup.pdf) | [UserSearch_Writeup.pdf](UserSearch_Writeup.pdf) ([DOCX](UserSearch_Writeup.docx)) |
-| 37 | **Waffy** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/Waffy_Writeup.pdf) | [Waffy_Writeup.pdf](Waffy_Writeup.pdf) |
-| 38 | **Walking CMS** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/Walking_CMS_Writeup.pdf) | [Walking_CMS_Writeup.pdf](Walking_CMS_Writeup.pdf) |
-| 39 | **Walking Dead** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/Walking_Dead_Writeup.pdf) | [Walking_Dead_Writeup.pdf](Walking_Dead_Writeup.pdf) |
-| 40 | **Winfake** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/Winfake_Writeup.pdf) | [Winfake_Writeup.pdf](Winfake_Writeup.pdf) |
-| 41 | **XSS** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/XSS_Writeup.pdf) | [XSS_Writeup.pdf](XSS_Writeup.pdf) |
-| 42 | **Zone** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/Zone_Writeup.pdf) | [Zone_Writeup.pdf](Zone_Writeup.pdf) |
+| 35 | **Support** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/Support_Writeup.pdf) | [Support_Writeup.pdf](Support_Writeup.pdf) |
+| 36 | **Sunset: Midnight** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/Sunset_Midnight_Writeup.pdf) | [Sunset_Midnight_Writeup.pdf](Sunset_Midnight_Writeup.pdf) |
+| 37 | **UserSearch** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/UserSearch_Writeup.pdf) | [UserSearch_Writeup.pdf](UserSearch_Writeup.pdf) ([DOCX](UserSearch_Writeup.docx)) |
+| 38 | **Waffy** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/Waffy_Writeup.pdf) | [Waffy_Writeup.pdf](Waffy_Writeup.pdf) |
+| 39 | **Walking CMS** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/Walking_CMS_Writeup.pdf) | [Walking_CMS_Writeup.pdf](Walking_CMS_Writeup.pdf) |
+| 40 | **Walking Dead** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/Walking_Dead_Writeup.pdf) | [Walking_Dead_Writeup.pdf](Walking_Dead_Writeup.pdf) |
+| 41 | **Winfake** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/Winfake_Writeup.pdf) | [Winfake_Writeup.pdf](Winfake_Writeup.pdf) |
+| 42 | **XSS** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/XSS_Writeup.pdf) | [XSS_Writeup.pdf](XSS_Writeup.pdf) |
+| 43 | **Zone** | `PDF` | [👁️ Read Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/greenfield71/machine-reports/main/Zone_Writeup.pdf) | [Zone_Writeup.pdf](Zone_Writeup.pdf) |
 
 ---
 
